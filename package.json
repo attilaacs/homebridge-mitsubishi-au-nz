@@ -1,10 +1,17 @@
 {
   "name": "homebridge-mitsubishi-au-nz",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "lib/index.js",
   "keywords": [
     "homebridge-plugin",
-    "homekit"
+    "homekit",
+    "mitsubishi",
+    "australia",
+    "new-zealand",
+    "aircon",
+    "air-conditioning",
+    "airconditioning",
+    "air-conditioner"
   ],
   "licenses": [
     {
